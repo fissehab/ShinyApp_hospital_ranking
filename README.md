@@ -11,5 +11,5 @@ Similarly, the screenshot below shows top ten best hospitals in NY in pneumonia.
 
 ![alt tag](images/hospital_ranking2.PNG)
 
-You can try the app by clicking<a href="https://fishdata.shinyapps.io/hospital_ranking/">here</a>.
+You can try the app by clicking <a href="https://fishdata.shinyapps.io/hospital_ranking/">here</a>.
 
